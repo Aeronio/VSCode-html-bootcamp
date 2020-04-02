@@ -1,0 +1,12 @@
+a {
+    font-size: 200px;
+}
+
+a:focus {
+    color: red;
+}
+
+/*a:active {*/
+/*    color: red;*/
+/*}*/
+/*With a link, Active does the same thing*/

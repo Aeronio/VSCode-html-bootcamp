@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="393587de-2bf0-46a0-91c0-2ce24fc92989" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Ys0QF7kOiWLU29sJcxjB2uZgTz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/026_exercises_self" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Izzy\html-bootcamp\Exercises\HTML_Essentials\css" />
+      <recent name="C:\Users\Izzy\html-bootcamp\Exercises\HTML_Essentials\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Izzy\html-bootcamp\026_exercises_self" />
+      <recent name="C:\Users\Izzy\html-bootcamp\026_exercises_self\02" />
+      <recent name="C:\Users\Izzy\html-bootcamp\024_exercises_self" />
+      <recent name="C:\Users\Izzy\html-bootcamp\023_css-order-and-specificity\04_challenge-02_order-matters" />
+      <recent name="C:\Users\Izzy\html-bootcamp\022_exercises_self" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="393587de-2bf0-46a0-91c0-2ce24fc92989" name="Default Changelist" comment="" />
+      <created>1583715976392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583715976392</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584577043244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584577043244" />
+    <state x="922" y="167" key="SettingsEditor" timestamp="1584560494492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="167" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584560494492" />
+    <state x="1087" y="242" key="run.anything.popup" timestamp="1584387605060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1087" y="242" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584387605060" />
+    <state x="1094" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1584545999510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1094" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584545999510" />
+  </component>
+</project>
