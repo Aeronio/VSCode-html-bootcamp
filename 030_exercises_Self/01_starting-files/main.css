@@ -1,0 +1,33 @@
+* {
+    border: 1px dashed hotpink;
+}
+
+html {
+    font-size: 2rem;
+    min-width: 1000px;
+    font-family: sans-serif;
+}
+
+ul {
+    list-style: none;
+    border: 2px solid gray
+}
+
+li {
+    border: 2px solid red;
+    border-radius: 50px;
+    display: inline-block;
+    background-color: slategrey;
+    color: black;
+}
+
+a{
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+li:hover{
+    background-color: grey;
+}
+
