@@ -1,0 +1,25 @@
+body{
+    display: flex;
+
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    border: 1px dashed pink;
+
+    height: 1200px;
+    width: auto;
+
+}
+
+div{
+    flex-grow: 1;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black ;
+    background-color: cornflowerblue;
+    margin: 1rem;
+}
+
+#test{
+    align-self: flex-end;
+}
