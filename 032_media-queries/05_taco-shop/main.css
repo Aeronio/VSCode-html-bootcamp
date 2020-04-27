@@ -5,6 +5,8 @@ nav, ul, li, main, section {
     box-sizing: border-box;
 }
 
+/* This is a small reset above. */
+
 body {
     display: flex;
     flex-flow: row wrap;

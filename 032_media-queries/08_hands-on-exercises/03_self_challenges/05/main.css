@@ -1,0 +1,9 @@
+body{
+    width: 100%;
+    border: 2px solid orange;
+    margin: 1rem;
+}
+
+h1{
+    color: black;
+}
