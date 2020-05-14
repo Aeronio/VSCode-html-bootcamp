@@ -1,0 +1,14 @@
+html, body, header, aside, nav, article, footer{
+    
+margin: 0;
+padding: 0;
+border: 0;
+
+box-sizing: border-box;
+
+}
+
+body{
+
+    padding: 5px;
+}

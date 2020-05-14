@@ -1,0 +1,15 @@
+ul{
+    flex-flow: row nowrap;
+
+    justify-content: flex-end;
+}
+
+/* li{
+    padding: 0 20px;
+}  This also works*/
+
+a{
+    padding: 1rem;
+    border-top: none;
+    border-bottom: none;
+}

@@ -1,0 +1,19 @@
+body{
+    max-width: 1000px;
+}
+
+.c2, .c3{
+    order: 1;
+}
+
+.c1{
+    order: 2;
+}
+
+.c4, .c5, .c6{
+    order: 3;
+}
+
+.c7{
+    order: 4;
+}

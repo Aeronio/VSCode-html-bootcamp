@@ -1,0 +1,30 @@
+html, body, nav, ul, li{
+
+    font-family: sans-serif;
+    font-size: 1rem;
+}
+
+ul{
+    list-style: none;
+    background-color: deepskyblue;
+}
+
+a{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+
+    
+    padding: 20px 0;
+    border-top: 1px solid whitesmoke;
+    border-bottom: 1px solid darkgrey;
+}
+
+/* li{
+    border-top: 1px solid whitesmoke;
+    border-bottom: 1px solid black;
+} */
+
+a:hover{
+    background: lightblue;
+}

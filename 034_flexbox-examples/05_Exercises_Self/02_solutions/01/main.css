@@ -1,0 +1,21 @@
+html, body, nav, ul, li{
+
+    border: 0;
+    padding: 0;
+    margin: 0;
+
+    box-sizing: border-box;
+}
+
+ul{
+    display: flex;
+
+
+    flex-flow: column nowrap;
+    /* align-items: center; This will make the hover color only center in on the text */
+    /* justify-content: center; */
+}
+
+a{
+    display: block;
+}

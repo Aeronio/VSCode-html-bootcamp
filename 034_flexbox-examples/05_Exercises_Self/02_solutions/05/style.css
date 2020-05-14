@@ -1,0 +1,15 @@
+header, aside, nav, article, footer{
+
+font-family: sans-serif;
+border: 2px solid black;
+background-color: blanchedalmond;
+
+/* display: inline-block;
+width: 100%; */
+
+padding: 20px 0;
+/* margin: 0 auto; */
+
+text-align: center;
+    
+}
