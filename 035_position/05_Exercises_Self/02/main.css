@@ -1,0 +1,35 @@
+html, body, div{
+
+    margin: 0;
+    border: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+}
+
+body{
+
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+div{
+
+    width: 200px;
+    height: 200px;
+
+    margin: 0 auto;
+    
+
+    background-color: salmon;
+    border: 5px solid red;
+}
+
+#move{
+
+    position: relative;
+
+    top: 20px;
+    left: 20px;
+}

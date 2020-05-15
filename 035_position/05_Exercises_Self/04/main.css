@@ -1,0 +1,45 @@
+html, body, article, aside{
+    
+    padding: 0;
+    border: 0;
+    margin: 0;
+
+    box-sizing: border-box;
+}
+
+body{
+
+    position: relative;
+
+    margin: 0 auto;
+
+    width: 70%;
+    height: 600px;
+
+    /* Formatting */
+
+    /* border: 2px dashed pink; */
+}
+
+aside{
+
+    position: absolute;
+
+    left: 0;
+    top: 0;
+
+    /* Formatting */
+
+    width: 200px;
+    height: 100%;
+    border: 2px solid red;
+}
+
+article{
+
+    margin-left: 200px;
+    height: 100%;
+
+    /* Formatting */
+    border: 2px solid black;
+}

@@ -1,0 +1,40 @@
+html, body, article, section{
+
+    padding: 0;
+    border: 0;
+    margin: 0;
+
+    box-sizing: border-box;
+}
+
+article{
+
+    position: relative;
+
+    top: 5px;
+    left: 5px;
+
+    /* Formatting */
+
+    background-color: salmon;
+    border: 3px solid red;
+    width: 500px;
+    height: 500px;
+
+}
+
+section{
+
+    position: absolute;
+
+    right: 10px;
+    top: 100px;
+
+    /* Formatting */
+
+    background-color: pink;
+    border: 3px solid rebeccapurple;
+    width: 100px;
+    height: 100px;
+
+}
