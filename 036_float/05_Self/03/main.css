@@ -1,0 +1,31 @@
+html, body, article, p, div{
+
+    padding: 0;
+    border: 0;
+    margin: 0;
+
+    box-sizing: border-box;
+}
+
+body{
+
+    /* Formatting */
+
+    border: 2px solid red;
+}
+
+article{
+
+    overflow: auto;
+}
+
+div{
+
+    float: right;
+
+    /* Formatting */
+
+    border: 5px solid red;
+    width: 200px;
+    height: 200px;
+}
