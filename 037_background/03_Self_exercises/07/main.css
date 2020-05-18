@@ -1,0 +1,26 @@
+html, body, div{
+
+    padding: 0;
+    border: 0;
+    margin: 0;
+
+    box-sizing: border-box;
+}
+
+div{
+
+
+
+    background-image: url("dog.png");
+
+    background-repeat: no-repeat;
+
+    background-size: contain;
+
+
+    /* Formatting */
+    border: 5px solid gray;
+
+    width: 400px;
+    height: 400px;
+}

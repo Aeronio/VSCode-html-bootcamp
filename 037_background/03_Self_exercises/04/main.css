@@ -1,0 +1,17 @@
+html, body{
+
+    padding: 0;
+    border: 0;
+    margin: 0;
+
+    box-sizing: border-box;
+}
+
+body{
+
+    /* Formatting */
+
+    background-image: url("dog.png");
+
+    background-repeat: repeat-y;
+}
