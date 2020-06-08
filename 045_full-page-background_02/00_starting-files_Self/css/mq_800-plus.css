@@ -1,0 +1,75 @@
+header{
+
+    /* position: fixed; */
+    /* top: 0; */
+    /* left: 0; */
+
+    /* display: flex; */
+
+    /* flex-flow: row nowrap; */
+
+    justify-content: space-between;
+    /* align-items: center; */
+
+    /* margin: 0 auto; */
+
+    /* width: 100%; */
+    height: 2.6rem;
+
+    /* background-color: rgba(0, 0, 0, 0.7); */
+
+}
+
+#idx-atf {
+    background-image: url("../img/background-photo.jpg");
+}
+
+#idx-atf > div {
+    height: 30vh;
+}
+
+#idx-atf h1 {
+    font-size: 3rem;
+}
+
+#idx-atf h3 {
+    margin-top: .4rem;
+}
+
+header svg{
+    display: inline;
+}
+
+#mnav{
+    display: none;
+}
+
+a{
+    padding: .5rem;
+}
+
+nav{
+
+    text-align: center;
+}
+
+/* .c0{
+    stroke: cornsilk;
+    fill: cornsilk;
+
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.c0:hover{
+    stroke: white;
+    fill: white;
+}
+
+.c1{
+    stroke: cornsilk;
+    fill: cornsilk;
+
+    width: 2rem;
+    height: 2rem;
+} */
