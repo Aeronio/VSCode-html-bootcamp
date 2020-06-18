@@ -1,0 +1,44 @@
+html, body, svg{
+
+    padding: 0;
+    border: 0;
+    margin: 0;
+
+    box-sizing: border-box;
+}
+
+body{
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+svg{
+
+    color: lightslategray;
+
+    fill: currentColor;
+
+    padding: 5rem .8rem;
+
+    border: 4px solid currentColor;
+    border-radius: 18rem;
+}
+
+svg:hover{
+
+    color: darkgray;
+}
+
+svg:active{
+
+    color: lightslategray;
+    background-color: rgb(96, 228, 96);
+}

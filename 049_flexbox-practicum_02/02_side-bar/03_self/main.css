@@ -1,0 +1,80 @@
+html, body, nav, main, button, section{
+
+    padding: 0;
+    border: 0;
+    margin: 0;
+
+    box-sizing: border-box;
+}
+
+/* html{
+
+    font-size: 1vw;
+} */
+
+button{
+
+    background-color: transparent;
+    font-size: inherit;
+    text-align: start;
+
+    /* border: 1px solid hotpink */
+}
+
+nav{
+    display: flex;
+
+    flex-flow: column nowrap;
+
+    justify-content: space-around;
+    align-items: center;
+
+    position: fixed;
+
+    width: 14vw;
+    height: 100%;
+
+    border-right: 1px solid lightgray;
+}
+
+nav section{
+
+    display: flex;
+
+    flex-flow: column nowrap;
+
+    justify-content: center;
+    align-items: center;
+}
+
+nav button{
+
+    display: flex;
+
+    align-items: center;
+
+    width: 14vw;
+    height: 4.6rem;
+
+    padding: 2rem;
+
+    font-size: 2rem;
+
+    font-family: sans-serif;
+    
+    color: rgb(0, 155, 216);
+}
+
+nav button:hover{
+
+    background-color: rgba(195, 197, 219, 0.466);
+
+    cursor: pointer;
+}
+
+main{
+
+    width: 80vw;
+    height: 100%;
+    margin-left: 16vw;
+}
